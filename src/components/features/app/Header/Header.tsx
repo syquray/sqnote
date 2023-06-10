@@ -15,7 +15,7 @@ export const Header = () => {
           <a className="select-none text-primary-1 text-2xl md:text-3xl font-bold">
             sqnote
             <p className="text-sm md:text-base text-left">
-              - the code is in yourself.
+                  - the code is in yourself.
             </p>
           </a>
         </Link>
