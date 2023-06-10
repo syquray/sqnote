@@ -11,5 +11,7 @@
   "[markdown]": {
     "files.trimTrailingWhitespace": false
   },
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "aiXcoder.showTrayIcon": true
 }
