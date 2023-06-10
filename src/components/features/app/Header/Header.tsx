@@ -14,12 +14,11 @@ export const Header = () => {
         <Link href="/" passHref>
           <a className="select-none text-primary-1 text-2xl md:text-3xl font-bold">
             sqnote
+            <p className="text-sm md:text-base text-left">
+              - the code is in yourself.
+            </p>
           </a>
         </Link>
-
-        <div className="select-none text-primary-1 text-sm md:text-base font-bold">
-          - the code is in yourself.
-        </div>
 
         <div className="hidden lg:flex">
           <NavBar />
