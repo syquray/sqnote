@@ -13,10 +13,7 @@ export const Header = () => {
       <nav className="hstack justify-between">
         <Link href="/" passHref>
           <a className="select-none text-primary-1 text-2xl md:text-3xl font-bold">
-            Blog
-          </a>
-          <a className="select-none text-primary-1 text-sm md:text-base font-bold">
-            - the code is in yourself.
+            sqnote
           </a>
         </Link>
 
