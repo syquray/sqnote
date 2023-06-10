@@ -10,12 +10,12 @@ export const Profile = () => (
         alt="avatar"
         src="/assets/author.png"
       />
-      <h1 className="text-2xl font-semibold text-primary-1">Next.js</h1>
+      <h1 className="text-2xl font-semibold text-primary-1">syquray</h1>
     </div>
 
     <p className="text-primary-1">
-      Modern JavaScript Framework: hybrid static & server rendering, TypeScript
-      support, smart bundling, route pre-fetching...
+      Python とか C# とか TypeScript とか。Next.js を勉強していきたい候。
+      でもあれですね、( フラパ | プロセカ | クラロワ | T3 Arena ) は神ゲーです。
     </p>
 
     <div className="flex gap-4">

@@ -21,7 +21,7 @@ export const Footer = () => {
             ))}
           </div>
           <div className="text-neutral-200 text-sm text-center">
-            &copy; 2022 - {SITE_NAME}
+            Copyright &copy; 2023 syquray All rights reserved, Built with Next.js
           </div>
         </div>
       </ContentLayout>
