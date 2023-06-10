@@ -17,6 +17,10 @@ export const Header = () => {
           </a>
         </Link>
 
+        <div className="select-none text-primary-1 text-sm md:text-base font-bold">
+          - the code is in yourself.
+        </div>
+
         <div className="hidden lg:flex">
           <NavBar />
         </div>
