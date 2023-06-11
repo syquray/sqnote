@@ -20,7 +20,7 @@ export const Footer = () => {
             ))}
           </div>
           <div className="text-neutral-200 text-sm text-center">
-            Copyright &copy; 2023 <div className="text-accent-2">syquray</div> All rights reserved, Built with <div className="text-accent-2">Next.js</div>.
+            Copyright &copy; 2023 <div className="text-accent-2" style={{ display: "inline-block" }}>syquray</div> All rights reserved, Built with <div className="text-accent-2" style={{ display: "inline-block" }}>Next.js</div>.
           </div>
         </div>
       </ContentLayout>
