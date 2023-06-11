@@ -16,7 +16,7 @@ export const Seo = () => {
           type: 'website',
           title: 'sqnote',
           description: 'sqnote - 個人ブログって最強のトラブルシューティングサイトですよね',
-          siteName: 'sqnote',
+          site_name: 'sqnote',
           url: ROOT_URL,
           images: [
             {
