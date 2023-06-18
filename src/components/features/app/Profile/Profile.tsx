@@ -14,8 +14,9 @@ export const Profile = () => (
     </div>
 
     <p className="text-primary-1">
-      Python とか C# とか TypeScript とか。Next.js を勉強していきたい候。
-      でもあれですね、( フラパ | プロセカ | クラロワ | T3 Arena ) は神ゲーです。
+      Python とか C# とか TypeScript とか。Next.js を勉強していきたい。
+      一番好きな曲は wowaka さんの アンノウン・マザーグース かな。
+      でもあれですね、( クラロワ | T3 Arena ) は神ゲーです。
     </p>
 
     <div className="flex gap-4">
